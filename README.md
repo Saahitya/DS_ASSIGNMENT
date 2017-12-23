@@ -1,7 +1,7 @@
-#DS LRU\(Least Recently Used\) Cache Assignment#
+# DS LRU\(Least Recently Used\) Cache Assignment
 :+1
 
-##DESCRIPTION
+## DESCRIPTION
 1. LRU Cache is basically a cache implemented with the cache replacement technique of replacing the least recently accessed item.
 2. This LRU Cache is implemented using a doubly linked list style queue and standard python dictionary.
 3. Cache is defined with two methods\-get\(\) and put\(\)
