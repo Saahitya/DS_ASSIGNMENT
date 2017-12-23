@@ -1,5 +1,5 @@
 # DS LRU\(Least Recently Used\) Cache Assignment
-:+1
+:+1:
 
 ## DESCRIPTION
 1. LRU Cache is basically a cache implemented with the cache replacement technique of replacing the least recently accessed item.
@@ -13,7 +13,7 @@
 	>else just puts it in the back of the queue.
 4. the results are timed against a array retrieval technique to compare effiency .
 
-##RUN INSTRUCTIONS
+## RUN INSTRUCTIONS
 JUPYTER:
 1. type "jupyter notebook" in terminal .
 2. Choose DS_Cache.ipynb to run .
